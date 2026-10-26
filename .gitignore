@@ -1,0 +1,9 @@
+Secrets.xcconfig
+build/
+DerivedData/
+xcuserdata/
+*.trace
+.DS_Store
+CLAUDE.md
+.claude/
+report/

@@ -1,0 +1,6 @@
+// Defaults; override any of these in Secrets.xcconfig (gitignored, see README).
+GMS_API_KEY =
+REPRO_BUNDLE_ID = com.example.navsdkretryrepro
+DEVELOPMENT_TEAM =
+
+#include? "Secrets.xcconfig"
